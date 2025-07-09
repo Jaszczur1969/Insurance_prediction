@@ -8,9 +8,9 @@ st.set_page_config(page_title="Insurance Predictor", page_icon="💸")
 st.markdown("""
     <style>
     .stApp {
-        background-image: url("https://some-static-host.com/path/to/your-image5.jpg");
-        background-size: cover;
-        background-position: center;
+        background-image: url("https://raw.githubusercontent.com/Jaszczur1969/Insurance_prediction/0ce8099a63a572e91f9e9d209c0004d90a3b7a9e/tlo_reka_2.png");
+        background-size: 1000px auto;
+        background-position: top right;
         background-attachment: fixed;
         color: #333333;
         font-family: 'Segoe UI', sans-serif;
