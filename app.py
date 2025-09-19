@@ -175,7 +175,7 @@ By improving these factors, you can significantly reduce your insurance costs.
         if delta > 0:
             st.markdown(f"💸 **Potential savings:** {delta:,.2f} USD per year")
         else:
-            st.info("🎉 Widzę że nie jesteś palaczem – gratulacje!")
+            st.info("🎉 I see you are not a smoker – Congratulations!")
 
     st.markdown("---")
 
